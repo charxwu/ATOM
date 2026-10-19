@@ -1,4 +1,4 @@
-# [Draft RFC] MORI-UMBP KV Cache Offloading for ATOM
+# [RFC] Add MORI-UMBP KV Cache Offloading for ATOM
 
 ## Motivation
 
